@@ -1,0 +1,13 @@
+{
+  "authors": [
+    {"name": "Afonso Abreu"},
+    {"name": "Gabriel Muniz"},
+    {"name": "João Victor"},
+    {"name": "Matheus Romeiro"}
+  ],
+  "autoload": {
+    "psr-4": {
+        "App\\": "App"
+    }
+  }
+}
