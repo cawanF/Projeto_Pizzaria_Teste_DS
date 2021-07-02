@@ -55,5 +55,5 @@
     public function index(){
       $this->redirect('/usuario/cadastro'); // Esta linha vai redirecionar para a a tela de cadstro do usuário O arquico index.php da view usuário não existe, por isso a action apenas redireciona quando acessada.
     }
-  }
-?>
+  } //teste de comentário
+?> 
